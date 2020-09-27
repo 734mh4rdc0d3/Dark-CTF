@@ -1,0 +1,13 @@
+i tried to search how to open an encase file.
+
+finally setelled for access data FTK imager.
+download this software on windows (28MB).
+
+just simply opened it and mount the image for a new drive.
+open the drive a find all the file and file structure similar to windows.
+
+since the question hints towards contacts, there we find the contacts folder.
+it has a lot of files with extension .contact and we know this is a type of file that windows save for contacts.
+try to open it in windows contacts and in certain files we can find notes written where we can find the parts of the flag.
+
+flag: darkCTF{C0ntacts_4re_1mp0rtant}

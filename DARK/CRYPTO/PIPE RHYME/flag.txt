@@ -1,0 +1,5 @@
+just a vanilla rsa challenge, factors of N can be found on factorDB.
+
+script can be found in flag.py.
+
+flag: darkCTF{4v0iD_us1ngg_p1_pr1mes}

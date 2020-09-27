@@ -1,0 +1,13 @@
+the question hints at xor being the cipher but we need to find the key.
+
+using cyber chef for all the procedure.
+
+given was the string in hex and we knew that the flag starts with "darkCTF{" so this becomes our key to find the actual key.
+
+this is shown in the find-key.png file.
+
+now we know that the key os 1337hack.
+
+using this as the actual key as shown in the flag.png we get the flag.
+
+flag: darkCTF{kud0s_h4xx0r}

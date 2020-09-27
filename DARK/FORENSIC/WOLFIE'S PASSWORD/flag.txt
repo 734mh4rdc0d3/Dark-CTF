@@ -1,0 +1,11 @@
+the question states that he uses same password over for all.
+
+we find a password protected rar file and crack it with john the ripper.
+
+extract the hash with rar2john and brute it with rockyou.txt
+
+we get the password as show in the password.png
+
+as said, it is the flag
+
+flag: darkCTF{easypeasy}

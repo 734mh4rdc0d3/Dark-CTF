@@ -1,0 +1,7 @@
+The input is to be made to HTTP_USER_AGENT with a numeric value such that the string length is less than 3 and value more than 10000.
+
+after a bit a searching, we found that the is_numeric function allows exponential strings to be is numeric.
+
+we can try input such as 1e9 to the HTTP user agent request header and get the flag.
+
+flag: darkCTF{changeing_http_user_agent_is_easy}
